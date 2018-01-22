@@ -1110,6 +1110,7 @@ The basic building blocks of scripting Nginx with Lua are directives. Directives
 how the result will be used. Below is a diagram showing the order in which directives are executed.
 
 ![Lua Nginx Modules Directives](https://cloud.githubusercontent.com/assets/2137369/15272097/77d1c09e-1a37-11e6-97ef-d9767035fc3e.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Flua-nginx-module.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Flua-nginx-module?ref=badge_shield)
 
 [Back to TOC](#table-of-contents)
 
@@ -8297,3 +8298,7 @@ Special PCRE Sequences
 
 This section has been renamed to [Special Escaping Sequences](#special-escaping-sequences).
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Flua-nginx-module.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Flua-nginx-module?ref=badge_large)
